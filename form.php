@@ -35,7 +35,7 @@
 					</label>
 				</div>
 				<div class="form-check">
-					<input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2" checked>
+					<input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2">
 					<label class="form-check-label" for="flexRadioDefault2">
 						No
 					</label>
@@ -48,13 +48,13 @@
 					</label>
 				</div>
 				<div class="form-check">
-					<input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" checked>
+					<input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
 					<label class="form-check-label" for="flexCheckDefault">
 						Numeri
 					</label>
 				</div>
 				<div class="form-check">
-					<input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" checked>
+					<input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
 					<label class="form-check-label" for="flexCheckDefault">
 						Simboli
 					</label>
